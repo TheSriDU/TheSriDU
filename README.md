@@ -2,7 +2,7 @@
 <!--🧙 "Yer a programmer, Chamath." — Hagrid, probably.-->
 
 - 🔭 I’m currently working as a Full Stack Developer, and love building passion projects in my free time.
-- 🌱 I’m currently re-focusing on Android Development with **Nakath**(coming soon!).
+- 🌱 I’m currently re-focusing on Android Development with **Nakath** (coming soon!).
 - ⚡ Fun fact: I solemnly swear I’m up to something... full-stack.
 
 ## 💻 Current Tech Stack:
