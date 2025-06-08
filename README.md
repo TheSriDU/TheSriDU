@@ -1,5 +1,4 @@
-## Hiya, I'm Chamath — aka Sri.DU 👋
-<!--🧙 "Yer a programmer, Chamath." — Hagrid, probably.-->
+## <span title='"Yer a programmer, Chamath." — Hagrid, probably."'> Hiya, I'm Chamath — aka Sri.DU 👋 </span>
 
 - 🔭 I’m currently working as a Full Stack Developer, and love building passion projects in my free time.
 - 🌱 I’m currently re-focusing on Android Development with **Nakath** (coming soon!).
